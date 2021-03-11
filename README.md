@@ -1,6 +1,6 @@
 ## Bio
 
-📜 Initially trained in applied mathematics (numerical analysis, modeling, simulation), I have started working with data and the pydata stack when I was an energy efficiency researcher (successfully evading the Matlab ecosystem!).
+📜 Initially trained in applied mathematics (numerical analysis, modeling, simulation), I have started working with data and the pydata stack in 2013, when I was an energy efficiency researcher (successfully evading the Matlab ecosystem!).
 I then switched to my current role as a Head of Analytics & Data Science for Franprix, a french proximity retailer. My team and I handle the whole analytics process, advising data producers, building data pipelines, implementing ML algorithms, serving reports and dashboards.
 
 🙏 As a team we rely a lot on open source libraries and try to give back as much as we can!
