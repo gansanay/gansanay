@@ -1,4 +1,11 @@
-### Hi there 👋
+## Bio
+
+📜 Initially trained in applied mathematics (numerical analysis, modeling, simulation), I have started working with data and the pydata stack when I was an energy efficiency researcher (successfully evading the Matlab ecosystem!).
+I then switched to my current role as a Head of Analytics & Data Science for Franprix, a french proximity retailer. My team and I handle the whole analytics process, advising data producers, building data pipelines, implementing ML algorithms, serving reports and dashboards.
+
+🙏 As a team we rely a lot on open source libraries and try to give back as much as we can!
+
+📫 You can reach me on Twitter: [@gansanay](https://twitter.com/gansanay), or visit [my personal page](https://gansanay.com) for more.
 
 <!--
 **gansanay/gansanay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
